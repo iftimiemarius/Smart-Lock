@@ -13,5 +13,5 @@ Additional functions:
 ![alt text](https://github.com/iWhite99/Smart-Lock/blob/master/lock.gif)
 
 ![alt text](https://github.com/iWhite99/Smart-Lock/blob/master/fingerprint.png)
-![alt text](https://github.com/iWhite99/Smart-Lock/blob/master/lock.gif)
 ![alt text](https://github.com/iWhite99/Smart-Lock/blob/master/take_send.png)
+![alt text](https://github.com/iWhite99/Smart-Lock/blob/master/control.png)
