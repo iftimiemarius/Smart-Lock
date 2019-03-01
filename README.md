@@ -10,4 +10,8 @@ Additional functions:
 
 -> If the owner is not home and movement was detected in the house the owner would be notified with a phone message
 
-![alt text](https://github.com/iWhite99/Smart-Lock/blob/master/lock.gif "Locking / Unlocking")
+![alt text](https://github.com/iWhite99/Smart-Lock/blob/master/lock.gif)
+
+![alt text](https://github.com/iWhite99/Smart-Lock/blob/master/fingerprint.png)
+![alt text](https://github.com/iWhite99/Smart-Lock/blob/master/lock.gif)
+![alt text](https://github.com/iWhite99/Smart-Lock/blob/master/take_send.png)
